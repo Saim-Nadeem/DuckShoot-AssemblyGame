@@ -104,7 +104,7 @@ DuckShoot/
 
 ## Author
 
-**SAIM Nadeem** [Saim Nadeem](https://github.com/Saim-Nadeem)bute.
+[Saim Nadeem](https://github.com/Saim-Nadeem).
 
 ---
 
